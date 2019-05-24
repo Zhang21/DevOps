@@ -1,0 +1,11 @@
+[defalut]
+env = defalut
+name = defalut
+
+[test]
+env = test
+name = test
+
+[prod]
+env = prod
+name = prod
